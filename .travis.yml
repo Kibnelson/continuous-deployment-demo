@@ -1,3 +1,4 @@
+# Use Dockerized infrastructure test
 sudo: false
 language: python
 cache:
